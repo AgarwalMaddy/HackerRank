@@ -1,1 +1,1 @@
-# Hostel-Management
+# VIT Bhopal HackerRank Contest Solutions
